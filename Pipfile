@@ -11,6 +11,8 @@ pandas = "*"
 scikit-learn = "*"
 sklearn = "*"
 ipykernel = "*"
+seaborn = "*"
+awscli = "*"
 
 [requires]
 python_version = "3.7"
