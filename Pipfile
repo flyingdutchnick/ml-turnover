@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 numpy = "*"
 pandas = "*"
+scikit-learn = "*"
+sklearn = "*"
+ipykernel = "*"
 
 [requires]
-python_version = "3.8"
+python_version = "3.7"
