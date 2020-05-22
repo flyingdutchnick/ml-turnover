@@ -13,6 +13,7 @@ sklearn = "*"
 ipykernel = "*"
 seaborn = "*"
 awscli = "*"
+gunzip = "*"
 
 [requires]
 python_version = "3.7"
